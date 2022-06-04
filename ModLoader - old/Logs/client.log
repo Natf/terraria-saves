@@ -1,0 +1,37 @@
+﻿[11:44:07] [1/INFO] [tML]: Starting tModLoader v0.11.8.9 OSX client (5/29/2022)
+[11:44:07] [1/INFO] [tML]: Running on Mono 4.6.1
+[11:44:07] [1/INFO] [tML]: Executable: /Users/nathan/Library/Application Support/Steam/steamapps/common/tModLoader/tModLoader.app/Contents/MacOS/tModLoader.exe
+[11:44:07] [1/INFO] [tML]: Working Directory: /Users/nathan/Library/Application Support/Steam/steamapps/common/tModLoader/tModLoader.app/Contents/MacOS
+[11:44:07] [1/INFO] [tML]: Launch Parameters: 
+[11:44:07] [1/WARN] [tML]: First-chance exception reporting is not implemented on Mono
+[11:44:07] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> MonoMod.RuntimeDetour, Version=20.11.16.1, Culture=neutral, PublicKeyToken=null
+[11:44:07] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> MonoMod.Utils, Version=20.11.16.1, Culture=neutral, PublicKeyToken=null
+[11:44:07] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.Utils, Version=20.11.16.1, Culture=neutral, PublicKeyToken=null -> Mono.Cecil, Version=0.11.3.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[11:44:08] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+[11:44:09] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+[11:44:09] [1/DEBUG] [tML]: Hook IL.Ionic.Zip.ZipEntry::ValidateOutput(string, Stream, out string) modified by Terraria
+[11:44:26] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Steamworks.NET, Version=9.1.0.0, Culture=neutral, PublicKeyToken=null
+[11:44:26] [1/INFO] [tML]: Checking Steam installation...
+[11:45:03] [1/INFO] [tML]: Steam installation OK.
+[11:45:03] [1/INFO] [Terraria]: Found Terraria steamapp install at: /Users/nathan/Library/Application Support/Steam/steamapps/common/Terraria
+[11:45:03] [1/INFO] [Terraria]: Steam Cloud Quota: 128.6 MB available
+[11:45:28] [1/DEBUG] [Terraria]: Graphics Device: iMac {{Width:2048 Height:1152 Format:Color}}
+[11:48:38] [1/INFO] [Terraria]: Loaded 1000 vanilla assets
+[11:49:55] [1/INFO] [Terraria]: Loaded 2000 vanilla assets
+[11:50:34] [1/INFO] [Terraria]: Loaded 3000 vanilla assets
+[11:50:49] [1/INFO] [Terraria]: Loaded 4000 vanilla assets
+[11:51:02] [1/INFO] [Terraria]: Loaded 5000 vanilla assets
+[11:51:23] [1/DEBUG] [tML]: Fallback synchronization context assigned
+[11:51:25] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> MP3Sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[11:51:25] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Mono.Cecil.Mdb, Version=0.11.3.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[11:51:27] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> NVorbis, Version=0.8.4.0, Culture=neutral, PublicKeyToken=null
+[11:51:28] [Threadpool worker/INFO] [Terraria]: JIT loading finished
+[11:51:37] [Threadpool worker/INFO] [tML]: Unloading mods
+[11:51:37] [Threadpool worker/INFO] [tML]: Finding Mods...
+[11:51:37] [Threadpool worker/INFO] [tML]: Instantiating Mods...
+[11:51:37] [Threadpool worker/INFO] [tML]: Initializing: ModLoader (tModLoader) v0.11.8.9
+[11:51:40] [Threadpool worker/INFO] [tML]: Setting up...
+[11:51:41] [Threadpool worker/INFO] [tML]: Loading: ModLoader (tModLoader) v0.11.8.9
+[11:51:41] [Threadpool worker/INFO] [tML]: RAM usage: 877.8 MB
+[11:51:41] [Threadpool worker/INFO] [tML]: Adding Recipes...
+[11:52:06] [1/DEBUG] [tML]: Process.Start (UseShellExecute = True): "/Users/nathan/Library/Application Support/Terraria/ModLoader/Mods" 

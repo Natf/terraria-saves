@@ -1,0 +1,208 @@
+﻿[12:39:39] [1/INFO] [tML]: Starting tModLoader v0.11.8.9 OSX client (6/3/2022)
+[12:39:39] [1/INFO] [tML]: Running on Mono 4.6.1
+[12:39:39] [1/INFO] [tML]: Executable: /Users/nathan/Library/Application Support/Steam/steamapps/common/tModLoader/tModLoader.app/Contents/MacOS/tModLoader.exe
+[12:39:39] [1/INFO] [tML]: Working Directory: /Users/nathan/Library/Application Support/Steam/steamapps/common/tModLoader/tModLoader.app/Contents/MacOS
+[12:39:39] [1/INFO] [tML]: Launch Parameters: 
+[12:39:39] [1/WARN] [tML]: First-chance exception reporting is not implemented on Mono
+[12:39:39] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> MonoMod.RuntimeDetour, Version=20.11.16.1, Culture=neutral, PublicKeyToken=null
+[12:39:39] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> MonoMod.Utils, Version=20.11.16.1, Culture=neutral, PublicKeyToken=null
+[12:39:39] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.Utils, Version=20.11.16.1, Culture=neutral, PublicKeyToken=null -> Mono.Cecil, Version=0.11.3.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[12:39:40] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+[12:39:40] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+[12:39:40] [1/DEBUG] [tML]: Hook IL.Ionic.Zip.ZipEntry::ValidateOutput(string, Stream, out string) modified by Terraria
+[12:39:43] [1/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Steamworks.NET, Version=9.1.0.0, Culture=neutral, PublicKeyToken=null
+[12:39:43] [1/INFO] [tML]: Checking Steam installation...
+[12:39:43] [1/INFO] [tML]: Steam installation OK.
+[12:39:43] [1/INFO] [Terraria]: Found Terraria steamapp install at: /Users/nathan/Library/Application Support/Steam/steamapps/common/Terraria
+[12:39:44] [1/INFO] [Terraria]: Steam Cloud Quota: 128.6 MB available
+[12:39:45] [1/DEBUG] [Terraria]: Graphics Device: iMac {{Width:2048 Height:1152 Format:Color}}
+[12:39:47] [1/INFO] [Terraria]: Loaded 1000 vanilla assets
+[12:39:53] [1/INFO] [Terraria]: Loaded 2000 vanilla assets
+[12:40:00] [1/INFO] [Terraria]: Loaded 3000 vanilla assets
+[12:40:07] [1/INFO] [Terraria]: Loaded 4000 vanilla assets
+[12:40:14] [1/INFO] [Terraria]: Loaded 5000 vanilla assets
+[12:40:20] [1/DEBUG] [tML]: Fallback synchronization context assigned
+[12:40:22] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> MP3Sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[12:40:22] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> NVorbis, Version=0.8.4.0, Culture=neutral, PublicKeyToken=null
+[12:40:22] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: Terraria, Version=1.3.5.3, Culture=neutral, PublicKeyToken=null -> Mono.Cecil.Mdb, Version=0.11.3.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[12:40:22] [Threadpool worker/INFO] [Terraria]: JIT loading finished
+[12:40:24] [Threadpool worker/INFO] [tML]: Unloading mods
+[12:40:25] [Threadpool worker/INFO] [tML]: Finding Mods...
+[12:40:34] [Threadpool worker/INFO] [tML]: Sandboxing: CalamityMod
+[12:40:35] [Threadpool worker/INFO] [tML]: Sandboxing: ThoriumMod
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: CalamityModMusic
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: AlchemistNPC
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: AutoTrash
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: BossChecklist
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: CalValEX
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: FKBossHealthBar
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: JoostMod
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: MagicStorage
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: NoMoreTombs
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: RecipeBrowser
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: ShorterRespawn
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: StarterClasses
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: TrueTooltips
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: WingSlot
+[12:40:36] [Threadpool worker/INFO] [tML]: Sandboxing: WMITF
+[12:40:36] [Threadpool worker/INFO] [tML]: Instantiating Mods...
+[12:40:36] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: ThoriumMod_0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[12:40:37] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: FKBossHealthBar_0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> Terraria, Version=1.3.5.1, Culture=neutral, PublicKeyToken=null
+[12:40:37] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: ShorterRespawn_0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null -> Terraria, Version=1.3.5.1, Culture=neutral, PublicKeyToken=null
+[12:40:37] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: WMITF_0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> Terraria, Version=1.3.5.1, Culture=neutral, PublicKeyToken=null
+[12:40:38] [Threadpool worker/INFO] [tML]: Initializing: ModLoader (tModLoader) v0.11.8.9
+[12:40:41] [Threadpool worker/INFO] [tML]: Initializing: CalamityMod (Calamity Mod (No Calamity Music)) v1.5.1.6
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: CalamityMod_0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> TerrariaHooks, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: TerrariaHooks, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> Terraria, Version=1.3.5.1, Culture=neutral, PublicKeyToken=null
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: TerrariaHooks, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> MonoMod.Utils, Version=19.12.19.1, Culture=neutral, PublicKeyToken=null
+[12:40:52] [Threadpool worker/WARN] [tML]: Upgraded Reference MonoMod.Utils -> Version=19.12.19.1 -> 20.11.16.1
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Assembly Resolve: TerrariaHooks, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null -> MonoMod.RuntimeDetour, Version=19.12.19.1, Culture=neutral, PublicKeyToken=null
+[12:40:52] [Threadpool worker/WARN] [tML]: Upgraded Reference MonoMod.RuntimeDetour -> Version=19.12.19.1 -> 20.11.16.1
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.NPC::ApplyTileCollision(bool, Vector2, int, int) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::UpdateTime() modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::UpdateTime_SpawnTownNPCs() added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Hurt(PlayerDeathReason, int, int, bool, bool, bool, int) modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::DashMovement() modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Update_NPCCollision() modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.WorldGen::OpenDoor(int, int, int) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.WorldGen::CloseDoor(int, int, bool) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Wiring::Teleport() added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::DrawInterface_40_InteractItemIcon() modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Item::AffixName() added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Projectile::NewProjectile(float, float, float, float, int, int, float, int, float, float) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::DrawCursor(Vector2, bool) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::QuickHeal() modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::QuickMana() modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::ItemCheck(int) modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::AddBuff(int, int, bool) modified by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::DrawInterface(GameTime) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::SortDrawCacheWorms() added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::SetDisplayMode(int, int, bool) added by CalamityMod_0
+[12:40:52] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::DrawTiles(bool, int) modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.GameContent.Liquid.LiquidRenderer::InternalDraw(SpriteBatch, Vector2, int, float, bool) modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::oldDrawWater(bool, int, float) modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WaterfallManager::DrawWaterfall(SpriteBatch, int, float) modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.NPC::Collision_DecideFallThroughPlatforms() added by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::DamageVar(float) modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.NPC::scaleStats() modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Projectile::AI_001() modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::UpdateJumpHeight() modified by CalamityMod_0
+[12:40:53] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Update(int) modified by CalamityMod_0
+[12:40:54] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Update(int) modified by CalamityMod_0
+[12:40:54] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Update(int) modified by CalamityMod_0
+[12:40:54] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Update(int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::Update(int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::UpdateManaRegen() modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WorldGen::Pyramid(int, int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WorldGen::MakeDungeon(int, int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WorldGen::DungeonHalls(int, int, ushort, int, bool) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WorldGen::GrowLivingTree(int, int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.WorldGen::SmashAltar(int, int) added by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WorldGen::hardUpdateWorld(int, int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.WorldGen::Chlorophyte(int, int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Item::Prefix(int) modified by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.NPC::SlimeRainSpawns(int) added by CalamityMod_0
+[12:40:55] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.NPC::SpawnNPC() modified by CalamityMod_0
+[12:40:56] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::UpdateTime() modified by CalamityMod_0
+[12:40:56] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::InitLifeBytes() added by CalamityMod_0
+[12:40:56] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.NPC::NPCLoot() modified by CalamityMod_0
+[12:40:56] [Threadpool worker/INFO] [tML]: Initializing: ThoriumMod (Thorium Mod) v1.6.5.5
+[12:41:00] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Player::ApplyDamageToNPC(NPC, int, float, int, bool) added by ThoriumMod_0
+[12:41:00] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.NPC::Collision_DecideFallThroughPlatforms() added by ThoriumMod_0
+[12:41:01] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::Update(GameTime) added by ThoriumMod_0
+[12:41:01] [Threadpool worker/INFO] [tML]: Initializing: CalamityModMusic (Calamity Mod Music) v1.5.1.1
+[12:41:01] [Threadpool worker/INFO] [tML]: Initializing: AlchemistNPC (AlchemistNPC) v9.4.2
+[12:41:02] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Main::PlaySound(int, int, int, int, float, float) added by AlchemistNPC_0
+[12:41:02] [Threadpool worker/INFO] [tML]: Initializing: AutoTrash (Auto Trash) v0.5.2
+[12:41:02] [Threadpool worker/INFO] [tML]: Initializing: BossChecklist (Boss Checklist) v1.1.6.1
+[12:41:02] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.GameContent.Events.DD2Event::WinInvasionInternal() added by BossChecklist_0
+[12:41:02] [Threadpool worker/INFO] [BossChecklist]: Boss Log integration messages will not be logged.
+[12:41:02] [Threadpool worker/INFO] [tML]: Initializing: CalValEX (Calamity's Vanities) v9.3
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:04] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:05] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Wiring::HitWireSingle(int, int) modified by CalValEX_0
+[12:41:06] [Threadpool worker/INFO] [tML]: Initializing: FKBossHealthBar (Yet Another Boss Health Bar) v1.3.2
+[12:41:06] [Threadpool worker/INFO] [tML]: Initializing: JoostMod (JoostMod) v0.9.0.1
+[12:41:08] [Threadpool worker/INFO] [tML]: Initializing: MagicStorage (Magic Storage) v0.4.3.6
+[12:41:08] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.NetMessage::SendData(int, int, int, NetworkText, int, float, float, float, int, int, int) added by MagicStorage_0
+[12:41:08] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.MessageBuffer::GetData(int, int, out int) added by MagicStorage_0
+[12:41:08] [Threadpool worker/INFO] [tML]: Initializing: NoMoreTombs (No More Tombs) v1.1.2
+[12:41:08] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Player::DropTombstone(int, NetworkText, int) added by NoMoreTombs_0
+[12:41:08] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Player::KillMe(PlayerDeathReason, double, int, bool) modified by NoMoreTombs_0
+[12:41:09] [Threadpool worker/INFO] [tML]: Initializing: RecipeBrowser (Recipe Browser) v0.8.9.1
+[12:41:09] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Recipe::FindRecipes() added by RecipeBrowser_0
+[12:41:09] [Threadpool worker/DEBUG] [tML]: Hook On.Terraria.Player::AdjTiles() added by RecipeBrowser_0
+[12:41:09] [Threadpool worker/INFO] [tML]: Initializing: ShorterRespawn (Shorter Respawn Time) v1.0
+[12:41:09] [Threadpool worker/INFO] [tML]: Initializing: StarterClasses (Starter Classes [c/FF5555:(Mod Support & Custom Bags)]) v1.5.2.2
+[12:41:09] [Threadpool worker/INFO] [tML]: Initializing: TrueTooltips ([c/ff8000:T][c/ffb366:ru][c/ff8000:e] [c/ff8000:To][c/ffb366:olti][c/ff8000:ps]) v1.3.2.4
+[12:41:09] [Threadpool worker/INFO] [tML]: Initializing: WingSlot (Wing Slot) v1.8.4
+[12:41:09] [Threadpool worker/INFO] [tML]: Initializing: WMITF (Which Mod Is This From? (WMITF)) v2.6.2
+[12:41:10] [Threadpool worker/INFO] [tML]: Setting up...
+[12:41:10] [Threadpool worker/INFO] [tML]: Loading: ModLoader (tModLoader) v0.11.8.9
+[12:41:10] [Threadpool worker/INFO] [tML]: Loading: CalamityMod (Calamity Mod (No Calamity Music)) v1.5.1.6
+[12:41:12] [Threadpool worker/INFO] [CalamityMod]: ModLoader version > 0.11.7.7 detected. Mechworm UUID workaround is disabled.
+[12:41:12] [Threadpool worker/INFO] [tML]: Loading: ThoriumMod (Thorium Mod) v1.6.5.5
+[12:41:15] [Threadpool worker/INFO] [tML]: Loading: CalamityModMusic (Calamity Mod Music) v1.5.1.1
+[12:41:15] [Threadpool worker/DEBUG] [tML]: Hook IL.Terraria.Main::UpdateAudio() modified by CalamityModMusic_0
+[12:41:15] [Threadpool worker/INFO] [tML]: Loading: AlchemistNPC (AlchemistNPC) v9.4.2
+[12:41:15] [Threadpool worker/INFO] [tML]: Loading: AutoTrash (Auto Trash) v0.5.2
+[12:41:15] [Threadpool worker/INFO] [tML]: Loading: BossChecklist (Boss Checklist) v1.1.6.1
+[12:41:16] [Threadpool worker/INFO] [tML]: Loading: CalValEX (Calamity's Vanities) v9.3
+[12:41:16] [Threadpool worker/INFO] [tML]: Loading: FKBossHealthBar (Yet Another Boss Health Bar) v1.3.2
+[12:41:16] [Threadpool worker/INFO] [tML]: Loading: JoostMod (JoostMod) v0.9.0.1
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: MagicStorage (Magic Storage) v0.4.3.6
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: NoMoreTombs (No More Tombs) v1.1.2
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: RecipeBrowser (Recipe Browser) v0.8.9.1
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: ShorterRespawn (Shorter Respawn Time) v1.0
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: StarterClasses (Starter Classes [c/FF5555:(Mod Support & Custom Bags)]) v1.5.2.2
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: TrueTooltips ([c/ff8000:T][c/ffb366:ru][c/ff8000:e] [c/ff8000:To][c/ffb366:olti][c/ff8000:ps]) v1.3.2.4
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: WingSlot (Wing Slot) v1.8.4
+[12:41:17] [Threadpool worker/INFO] [tML]: Loading: WMITF (Which Mod Is This From? (WMITF)) v2.6.2
+[12:41:17] [Threadpool worker/INFO] [tML]: RAM usage: 1.3 GB
+[12:41:18] [Threadpool worker/INFO] [tML]: Adding Recipes...
+[12:41:41] [Threadpool worker/INFO] [Terraria]: Loading World: NantoniaNew, IsCloud=False
+[12:41:42] [Threadpool worker/INFO] [StatusText]: Resetting game objects
+[12:41:43] [Threadpool worker/INFO] [StatusText]: Loading world data
+[12:41:44] [Threadpool worker/INFO] [StatusText]: Settling liquids
+[12:41:45] [Threadpool worker/INFO] [StatusText]: Loading map data
+[12:41:45] [Threadpool worker/INFO] [StatusText]: Drawing map
+[12:41:46] [1/INFO] [Terraria]: Entering world with player: NantansNew, IsCloud=False
+[12:49:31] [1/INFO] [Terraria]: Loaded 6000 vanilla assets
+[12:51:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[12:51:48] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:01:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:01:48] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:03:05] [1/INFO] [Terraria]: Loaded 7000 vanilla assets
+[13:03:09] [1/INFO] [Terraria]: Loaded 8000 vanilla assets
+[13:03:23] [1/INFO] [Terraria]: Loaded 9000 vanilla assets
+[13:03:35] [1/INFO] [Terraria]: Loaded 10000 vanilla assets
+[13:03:42] [1/INFO] [Terraria]: Loaded 11000 vanilla assets
+[13:11:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:11:48] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:21:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:21:48] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:31:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:31:48] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:41:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:41:47] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:51:47] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:51:47] [Threadpool worker/INFO] [StatusText]: Validating world save
+[13:59:47] [1/DEBUG] [tML]: Hook IL.Terraria.Main::UpdateAudio() modified by CalamityModMusic_0
+[13:59:47] [Threadpool worker/INFO] [StatusText]: Saving map data
+[13:59:48] [Threadpool worker/INFO] [StatusText]: Saving world data
+[13:59:48] [Threadpool worker/INFO] [StatusText]: Validating world save
